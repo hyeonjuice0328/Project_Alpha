@@ -1,5 +1,5 @@
 package beans;
 
-public class DAO {
+public class MemberDAO {
 
 }
